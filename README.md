@@ -19,3 +19,9 @@ chmod +x alias.sh
 > 
 > This version has zero error checking or anything like that, so maybe later I'll add it (or not xdd)
 
+### How to delete alias?
+> Later i'll create script for that
+> 
+Delete alias in the end of the file `~/.bashrc` or `~/.zshrc`
+
+U can check that by `echo $SHELL`
